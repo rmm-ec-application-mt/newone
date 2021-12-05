@@ -1,6 +1,9 @@
 adding this lne in master branch
 
 
+<<<<<<< HEAD
 
 
-getting error
+=======
+>>>>>>> development
+more  getting error
